@@ -4,7 +4,6 @@ import api from "../../../core/api"
 export const Catalog = () => {
     const [list, setData] = useState([]);
 
-
     useEffect(() => {
         let mounted = true;
         getData().then((items: any) => {
