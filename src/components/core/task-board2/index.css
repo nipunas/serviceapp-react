@@ -1,0 +1,20 @@
+.cardList{
+    background-color: #d3dee7;
+    margin: 0 5px;
+    padding: 5px 4px 4px 6px;
+}
+
+.cardItem {
+    background-color: white;
+    margin: 10px 8px;
+    border-radius: 5px;
+    padding: 9px 11px;
+    height: 130px;
+    border-left: 10px solid #ab0000;
+}
+
+.profile-photo {
+    width: 25px;
+    height: 35px;
+    border-radius: 15px;
+}
