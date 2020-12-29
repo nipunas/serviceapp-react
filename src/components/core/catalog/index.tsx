@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react"
 import api from "../../../core/api"
 
+
 export const Catalog = () => {
     const [list, setData] = useState([]);
 
